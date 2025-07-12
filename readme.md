@@ -56,7 +56,7 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/video-hosting-platform.git
+git clone https://github.com/Shivanshh27/VIdeo-Hosting-Platform
 cd video-hosting-platform
 npm install
 ```
@@ -118,7 +118,7 @@ Base path: `/api/v1/users`
 ## 🧑‍💻 Author
 
 **Shivansh Nigam**  
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/shivanshh27) • [LinkedIn](https://linkedin.com/in/Shivanshh27)
 
 ---
 
